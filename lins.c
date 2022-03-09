@@ -26,5 +26,6 @@
      if (c==0)
      printf("%d is not present in the array", search);
      return 0;
+     
 
  }
